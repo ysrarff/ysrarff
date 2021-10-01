@@ -1,4 +1,5 @@
-### Currently learning typescript/Gatsby 🌱
+### Currently learning multiple JS stacks 🌱
+### Feel free to reach out for coffee 💬☕
 
 <!--
 **ysrarff/ysrarff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
